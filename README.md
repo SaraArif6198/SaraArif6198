@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/SaraArif6198/logo/main/logo.png" alt="Sara Arif Logo" style="width: 100%; max-width: 100%;" />
+</p>
+
+<p align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </p>
 
@@ -86,4 +90,5 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
+
 
