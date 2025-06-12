@@ -15,21 +15,21 @@
 
 - 📫 How to reach me **saraariff2005@gmail.com**
 
-#### 📄 Know about my experiences
-##### 🎯 Current Focus:
+## 📄 Know about my experiences
+### 🎯 Current Focus:
 - Applied at Developers Hub as a Data Analyst, driven by my passion for data, patterns, and the smart systems behind intelligent decision-making.
 
-##### 📂 A Few Projects I’ve Built:
+### 📂 A Few Projects I’ve Built:
 - 🚉 Train Management System – Multi-page website integrated with a backend database  
 - 🏢 Smart Multi-Floor Network Setup – Routing, IP addressing, and security protocols in Cisco Packet Tracer  
 - 🩺 Patient Management System – Built using C++ with Object-Oriented Programming  
 - ✈️ Aeroplane Registration System – Implemented in C++ using Data Structures and Algorithms  
 - 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers  
 
-##### 🛠 Tools & Tech I Work With:
+### 🛠 Tools & Tech I Work With:
 **C++ | Python | MongoDB | Oracle SQL | HTML/CSS | EMU8086 | Cisco Packet Tracer | MS Office | System Design & Documentation**
 
-- ⚡ Fun fact: **I believe no project is complete until something crashes at least once 😅**
+- #### ⚡ Fun fact: **I believe no project is complete until something crashes at least once 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
