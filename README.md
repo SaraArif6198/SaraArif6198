@@ -1,5 +1,5 @@
 <!-- Full-width logo image at the top -->
-<img src="https://raw.githubusercontent.com/SaraArif6198/LOGO/main/logo%20(1).png" width="100%" alt="Logo" />
+<img src="https://github.com/SaraArif6198/LOGO/blob/main/logo3.png" width="100%" alt="Logo" />
 
 <p align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
