@@ -40,7 +40,11 @@
   <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sara Arif" height="30" width="40" />
   </a>
+  <a href="https://share.streamlit.io/user/saraarif6198" target="blank">
+    <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="30" width="100" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
