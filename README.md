@@ -25,7 +25,7 @@
 
 ### 📂 A Few Projects I’ve Built:
 - 🚉 Train Management System – Multi-page website integrated with a backend database  
-- [🏢 Smart Multi-Floor Network Setup – Routing, IP addressing, and security protocols in Cisco Packet Tracer](https://github.com/SaraArif6198/Bank-Network-Project)
+- [🏢 Smart Multi-Floor Network Setup](https://github.com/SaraArif6198/Bank-Network-Project)– Routing, IP addressing, and security protocols in Cisco Packet Tracer
 - 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers
 - 📊 [**Loan Risk Classifier Dashboard**](https://loan-risk-predict-dashboard.streamlit.app/) – Interactive Streamlit app predicting loan default risks using machine learning  
 - 🛒 [**Superstore Sales Analysis Dashboard**](https://sales-forecast-dashboard.streamlit.app/) – Fully interactive sales intelligence dashboard with forecasting and alerts  
