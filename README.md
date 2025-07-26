@@ -29,7 +29,7 @@
 - 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers
 - 📊 [**Loan Risk Classifier Dashboard**](https://loan-risk-predict-dashboard.streamlit.app/) – Interactive Streamlit app predicting loan default risks using machine learning  
 - 🛒 [**Superstore Sales Analysis Dashboard**](https://sales-forecast-dashboard.streamlit.app/) – Fully interactive sales intelligence dashboard with forecasting and alerts  
-- ⚡ [**Electricity Consumption Forecasting Dashboard**](https://github.com/SaraArif6198/electricity-consumption-forecasting-dashboard) – Time-series forecasting and anomaly detection in energy usage 
+- ⚡ [**Electricity Consumption Forecasting Dashboard**](https://electricity-consumption-forecasting-dashboard.streamlit.app/) – Time-series forecasting and anomaly detection in energy usage 
 
 ### 🛠 Tools & Tech I Work With:
 **C++ | Python | MongoDB | Oracle SQL | HTML/CSS | EMU8086 | Cisco Packet Tracer | MS Office | System Design & Documentation**
