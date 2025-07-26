@@ -27,7 +27,7 @@
 - 🚉 Train Management System – Multi-page website integrated with a backend database  
 - [🏢 Smart Multi-Floor Network Setup – Routing, IP addressing, and security protocols in Cisco Packet Tracer](https://github.com/SaraArif6198/Bank-Network-Project)
 - 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers
-- 📊 [**Loan Risk Classifier Dashboard**](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) – Interactive Streamlit app predicting loan default risks using machine learning  
+- 📊 [**Loan Risk Classifier Dashboard**](https://loan-risk-predict-dashboard.streamlit.app/) – Interactive Streamlit app predicting loan default risks using machine learning  
 - 🛒 [**Superstore Sales Analysis Dashboard**](https://github.com/SaraArif6198/Superstore-Sales-Analysis-Dashboard) – Fully interactive sales intelligence dashboard with forecasting and alerts  
 - ⚡ [**Electricity Consumption Forecasting Dashboard**](https://github.com/SaraArif6198/electricity-consumption-forecasting-dashboard) – Time-series forecasting and anomaly detection in energy usage 
 
