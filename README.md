@@ -14,7 +14,7 @@
 
 <p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
 
-- 🔭 I’m currently Learning [Data Science and Machine Learning tools including pandas, numpy, matplotlib, seaborn, and scikit-learn.](https://github.com/SaraArif6198/Data-Science-Internship-Tasks)
+- 🔭 I’m currently Learning Data Science and Machine Learning tools including pandas, numpy, matplotlib, seaborn, and scikit-learn.
 
 - 📫 How to reach me **saraariff2005@gmail.com**
 
