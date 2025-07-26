@@ -26,9 +26,10 @@
 ### 📂 A Few Projects I’ve Built:
 - 🚉 Train Management System – Multi-page website integrated with a backend database  
 - [🏢 Smart Multi-Floor Network Setup – Routing, IP addressing, and security protocols in Cisco Packet Tracer](https://github.com/SaraArif6198/Bank-Network-Project)
-- 🩺 Patient Management System – Built using C++ with Object-Oriented Programming  
-- ✈️ Aeroplane Registration System – Implemented in C++ using Data Structures and Algorithms  
-- 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers  
+- 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers
+- 📊 [**Loan Risk Classifier Dashboard**](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) – Interactive Streamlit app predicting loan default risks using machine learning  
+- 🛒 [**Superstore Sales Analysis Dashboard**](https://github.com/SaraArif6198/Superstore-Sales-Analysis-Dashboard) – Fully interactive sales intelligence dashboard with forecasting and alerts  
+- ⚡ [**Electricity Consumption Forecasting Dashboard**](https://github.com/SaraArif6198/electricity-consumption-forecasting-dashboard) – Time-series forecasting and anomaly detection in energy usage 
 
 ### 🛠 Tools & Tech I Work With:
 **C++ | Python | MongoDB | Oracle SQL | HTML/CSS | EMU8086 | Cisco Packet Tracer | MS Office | System Design & Documentation**
