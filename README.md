@@ -44,6 +44,9 @@
   <a href="https://share.streamlit.io/user/saraarif6198" target="blank">
     <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" height="30" width="100" />
   </a>
+  <a href="https://www.kaggle.com/sarahashmi/datasets" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
 </p>
 
 
