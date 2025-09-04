@@ -49,6 +49,19 @@
 
 ---
 
+## 🌟 Featured Projects  
+
+- 🔍 **Power BI Sales Dashboard** – Visualizing and analyzing sales data for insights.  
+- 🤖 **ML Mini Projects** – Starting with beginner ML models in Python (classification & regression).  
+- 📂 **MongoDB Projects** – Hands-on learning with queries, transactions, and data management.  
+
+---
+
+## 💻 Let’s Collaborate!  
+I’m always open to contributing to **Data Analytics, AI, or Database-related projects**. If you have an idea or project, feel free to reach out—I’d love to collaborate!  
+
+---
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="blank">
