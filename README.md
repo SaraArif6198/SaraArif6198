@@ -9,7 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraArif6198&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sara Arif</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
+  My name is Sara Arif
+</h1>
 <h3 align="center">A Computer Science Student exploring Data Analytics & AI</h3>
 
 <p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
