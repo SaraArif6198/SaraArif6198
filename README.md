@@ -10,33 +10,46 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sara Arif</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A Computer Science Student exploring Data Analytics & AI</h3>
 
 <p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
 
-- 🔭 I’m currently Learning Data Science and Machine Learning tools including pandas, numpy, matplotlib, seaborn, and scikit-learn.
+---
 
-- 📫 How to reach me **saraariff2005@gmail.com**
+## 🚀 About Me  
+- 🔭 Currently learning **Data Analytics tools** (Excel, Power BI, SQL, Python).  
+- 🌱 Exploring **Machine Learning** with libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn.  
+- 🤝 Open to collaborating on **Data Analytics, AI, and Database projects**.  
+- 💬 Ask me anything about **Python, SQL, Power BI, or MongoDB**—I’m happy to help!  
+- 📫 Reach me at **saraariff2005@gmail.com**  
 
-## 📄 Know about my experiences
+---
 
-### 🎯 Current Focus:
-- Applied at Developers Hub as a Data Analyst, driven by my passion for data, patterns, and the smart systems behind intelligent decision-making.
+## 📄 Know about my experiences  
 
-### 📂 A Few Projects I’ve Built:
-- 🚉 Train Management System – Multi-page website integrated with a backend database  
-- [🏢 Smart Multi-Floor Network Setup](https://github.com/SaraArif6198/Bank-Network-Project)– Routing, IP addressing, and security protocols in Cisco Packet Tracer
-- 🧮 Assembly Mini Project – Core low-level programming using loops, jumps, and registers
-- 📊 [**Loan Risk Classifier Dashboard**](https://loan-risk-predict-dashboard.streamlit.app/) – Interactive Streamlit app predicting loan default risks using machine learning  
+### 🎯 Current Focus:  
+- Building practical projects in **Data Analytics & Machine Learning**.  
+- Preparing for **research-based final year projects** in AI and Data Science.  
+
+### 📂 A Few Projects I’ve Built:  
+- 📊 [**Loan Risk Classifier Dashboard**](https://loan-risk-predict-dashboard.streamlit.app/) – Interactive Streamlit app predicting loan default risks using ML  
 - 🛒 [**Superstore Sales Analysis Dashboard**](https://sales-forecast-dashboard.streamlit.app/) – Fully interactive sales intelligence dashboard with forecasting and alerts  
-- ⚡ [**Electricity Consumption Forecasting Dashboard**](https://electricity-consumption-forecasting-dashboard.streamlit.app/) – Time-series forecasting and anomaly detection in energy usage 
+- ⚡ [**Electricity Consumption Forecasting Dashboard**](https://electricity-consumption-forecasting-dashboard.streamlit.app/) – Time-series forecasting and anomaly detection in energy usage  
 
-### 🛠 Tools & Tech I Work With:
-**C++ | Python | MongoDB | Oracle SQL | HTML/CSS | EMU8086 | Cisco Packet Tracer | MS Office | System Design & Documentation**
+---
+
+## 🛠 Tools & Tech I Work With  
+**Languages & Databases:** Python | SQL | C++ | MongoDB | Oracle SQL  
+**Analytics & Visualization:** Power BI | Excel | Tableau | Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn  
+**Other Tools:** Git | Jupyter Notebook | MS Office | System Design & Documentation | EMU8086  
+
+---
 
 #### ⚡ Fun fact: **I believe no project is complete until something crashes at least once 😅**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sara Arif" height="30" width="40" />
@@ -49,56 +62,41 @@
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 </p>
-
-
-
-
