@@ -53,6 +53,8 @@
 
 ---
 
+<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 ## 🛠 My Tech Stack  
 
 - **Languages**  
@@ -94,5 +96,6 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <p align="right">✨ Created with ❤️ by Sara Arif ✨</p>
