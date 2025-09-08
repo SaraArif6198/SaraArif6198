@@ -1,6 +1,4 @@
-<!-- Sparkles left & right -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+
 
 <!-- Full-width logo image at the top -->
 <img src="https://github.com/SaraArif6198/LOGO/blob/main/sara%20arif.png" />
@@ -13,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraArif6198&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </p>
 
+<!-- Sparkles left & right -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <h1 align="center">
   Hi 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
