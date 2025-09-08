@@ -30,6 +30,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
+<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ## 🚀 About Me  
 - 🔭 Currently learning **Data Analytics tools** (Excel, Power BI, SQL, Python).  
@@ -53,7 +54,18 @@
 
 ---
 
-<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+
+
 
 ## 🛠 My Tech Stack  
 
