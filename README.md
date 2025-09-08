@@ -94,8 +94,10 @@
 
 
 - **Tools & Others**  
-  <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </p>
 ---
 
 ## 🌟 Featured Projects  
