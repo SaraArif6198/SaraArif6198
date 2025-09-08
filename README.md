@@ -73,6 +73,16 @@
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
   </p>
+  
+- **Data Analytics & ML Libraries**  
+  <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="60" height="60" style="margin: 10px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="60" style="margin: 10px;"/>  
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60" style="margin: 10px; background-color:white; padding:5px; border-radius:8px;"/>  
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="60" style="margin: 10px; background:white; padding:5px; border-radius:8px;"/>  
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="60" style="margin: 10px;"/>  
+</p>
+
 
 - **Tools & Others**  
   <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p>
