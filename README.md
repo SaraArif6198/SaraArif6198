@@ -104,7 +104,16 @@
 - 📂 **MongoDB Projects** – Hands-on queries, transactions, and data management.  
 
 ---
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
