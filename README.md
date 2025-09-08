@@ -98,4 +98,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<p align="right">✨ Created with ❤️ by Sara Arif ✨</p>
+<p align="right">
+  ✨ Created with ❤️ by 
+  <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="_blank">Sara Arif</a> ✨
+</p>
+
