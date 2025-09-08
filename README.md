@@ -1,5 +1,3 @@
-
-
 <!-- Full-width logo image at the top -->
 <img src="https://github.com/SaraArif6198/LOGO/blob/main/sara%20arif.png" />
 
@@ -26,6 +24,14 @@
 
 <h3 align="center">A Computer Science Student exploring Data Analytics & AI</h3>
 <p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇-SQL%20Ninja-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Power%20BI%20Wizard-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Explorer-purple?style=for-the-badge" />
+</p>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
