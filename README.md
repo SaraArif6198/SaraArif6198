@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="center">A Computer Science Student exploring Data Analytics & AI</h3>
-<p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Analytics+|+Python+Programming;SQL+|+Excel+|+Power+BI+|+Machine+Learning;Turning+Data+into+Actionable+Insights" />
