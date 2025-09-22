@@ -26,16 +26,12 @@
 <p align="center"><em>"My goal is to turn data into insight, and insight into impactful solutions."</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇-SQL%20Ninja-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊-Power%20BI%20Wizard-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI%20Explorer-purple?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Analytics+|+Python+Programming;SQL+|+Excel+|+Power+BI+|+Machine+Learning;Turning+Data+into+Actionable+Insights" />
 </p>
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ## 🚀 About Me  
@@ -45,7 +41,8 @@
 - 💬 Ask me anything about **Python, SQL, Power BI, or MongoDB**.  
 - 📫 Reach me at **saraariff2005@gmail.com**  
 
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📄 Know about my experiences  
 
@@ -58,9 +55,8 @@
 - 🛒 [Superstore Sales Analysis Dashboard](https://sales-forecast-dashboard.streamlit.app/) – Sales intelligence dashboard with forecasting.  
 - ⚡ [Electricity Consumption Forecasting Dashboard](https://electricity-consumption-forecasting-dashboard.streamlit.app/) – Time-series forecasting in energy usage.  
 
----
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 ## 🛠 My Tech Stack  
@@ -104,14 +100,16 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </p>
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌟 Featured Projects  
 - 🔍 **Power BI Sales Dashboard** – Visualizing and analyzing sales data.  
 - 🤖 **ML Mini Projects** – Beginner ML models (classification & regression).  
 - 📂 **MongoDB Projects** – Hands-on queries, transactions, and data management.  
 
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
@@ -121,7 +119,8 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
