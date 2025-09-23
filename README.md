@@ -56,7 +56,7 @@
 - ⚡ [Electricity Consumption Forecasting Dashboard](https://electricity-consumption-forecasting-dashboard.streamlit.app/) – Time-series forecasting in energy usage.  
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 
 ## 🛠 My Tech Stack  
@@ -109,7 +109,7 @@
 - 📂 **MongoDB Projects** – Hands-on queries, transactions, and data management.  
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
@@ -130,9 +130,8 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
+---
 <p align="right">
   ✨ Created with ❤️ by 
   <a href="https://www.linkedin.com/in/sara-arif-7922642b8/" target="_blank">Sara Arif</a> ✨
