@@ -70,7 +70,7 @@ I don't just train models in Jupyter Notebooks—I build systems humans can actu
 **AI & Machine Learning**  
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" />
-  <img src="https://raw.githubusercontent.com/huggingface/hub-docs/main/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40" style="margin-left: 5px;"/>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="huggingface" width="40" height="40" style="margin-left: 5px;"/>
 </p>
 
 **Data Engineering & Cloud**
