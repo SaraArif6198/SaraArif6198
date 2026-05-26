@@ -44,9 +44,9 @@ I don't just train models in Jupyter Notebooks—I build systems humans can actu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[VizBot Analytics Engine](#)** | Autonomous AI agent that ingests natural language, dynamically generates Python code, and executes it securely to render analytical dashboards. | `LangGraph`, `Groq`, `FastAPI`, `Streamlit` |
-| **[UrduPy Compiler Infrastructure](https://github.com/SaraArif6198/UrduPy)** | Built a custom lexical analyzer and recursive descent parser from scratch. Maps right-to-left syntax to executable Python ASTs. | `Python`, `AST`, `Automata Theory` |
-| **[DG Cement Work Tracker](#)** | Mobile-first production PWA handling complex offline-caching and state-management for heavy-industry field supervisors. | `React`, `PHP`, `MySQL`, `REST` |
+| **[VizBot Analytics Engine](https://drive.google.com/file/d/1m-7qVkIa6RP0YQM1nTmVDEVUaa3W21Al/view)** | Autonomous AI agent that ingests natural language, dynamically generates Python code, and executes it securely to render analytical dashboards. | `LangGraph`, `Groq`, `FastAPI`, `Streamlit` |
+| **[UrduPy Compiler Infrastructure](https://drive.google.com/file/d/1vQ8hUT-hX8P0QMTIHfLlqgVeDbHWfqcc/view)** | Built a custom lexical analyzer and recursive descent parser from scratch. Maps right-to-left syntax to executable Python ASTs. | `Python`, `AST`, `Automata Theory` |
+| **[DG Cement Work Tracker](https://drive.google.com/file/d/1QRl1KugkKdM8WvxT1jkz-2Y2jC1Y-_PZ/view)** | Mobile-first production PWA handling complex offline-caching and state-management for heavy-industry field supervisors. | `React`, `PHP`, `MySQL`, `REST` |
 | **[Financial Risk Classifier](https://loan-risk-predict-dashboard.streamlit.app/)** | Applied SMOTE to resolve severe class imbalances in credit data. Optimized a gradient boosting classifier specifically for high recall. | `CatBoost`, `Scikit-Learn`, `SMOTE` |
 | **[Superstore Sales Intelligence](https://sales-forecast-dashboard.streamlit.app/)** | Enterprise-grade business intelligence dashboard featuring time-series forecasting and interactive metric drill-downs. | `Power BI`, `Pandas`, `Streamlit` |
 
