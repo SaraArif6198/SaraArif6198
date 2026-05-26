@@ -36,7 +36,7 @@ I don't just train models in Jupyter Notebooks—I build systems humans can actu
 - 💡 **Core Focus:** Explainability-first AI (SHAP, LIME)—building predictive models that enterprise stakeholders can understand and act upon.
 - 🏆 **Global Milestone:** Awarded the **Silver Honour** (Top 2% of 3,800+ participants) at the International Computer Science Competition (ICSC).
 - 🎓 **Academic Base:** BSc Computer Science @ University of Chakwal (3.85 CGPA).
-- 📫 **Contact:** **saraarif6198@gmail.com**
+- 📫 **Contact:** **saraariff2005@gmail.com**
 
 <br/>
 
