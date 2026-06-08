@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=SaraArif6198&label=Profile%20Views&color=915EFF&style=for-the-badge" alt="Profile views" style="margin-left: 20px; vertical-align: top; margin-top: 50px;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=750&height=45&lines=LangGraph+%26+Multi-Agent+AI+Orchestration;Explainable+Machine+Learning+(CatBoost%2C+SHAP);Full-Stack+Data+Products+(FastAPI%2C+React);ICSC+2025+Silver+Honour+(Top+2%25+Globally);Bridging+Raw+Data+and+Human+Decision-Making" />
 </p>
 
@@ -89,7 +93,7 @@ I don't just train models in Jupyter Notebooks—I build systems humans can actu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraArif6198&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://komarev.com/ghpvc/?username=SaraArif6198&label=Profile%20Views&color=915EFF&style=for-the-badge" alt="Profile views" style="margin-left: 20px; vertical-align: top; margin-top: 50px;" />
+  
 </p>
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
