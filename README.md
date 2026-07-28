@@ -124,11 +124,11 @@
 <br/>
 
 <!-- ===== MAKEFILE BUILD LOG ===== -->
-<div align="center">
+<!-- <div align="center">
   <img src="./make_build.svg" width="100%" alt="make sara — build output" />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ===== LANGUAGES ACROSS PUBLIC REPOS ===== -->
 <div align="center">
