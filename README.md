@@ -60,7 +60,7 @@
 - **Architecture:** Includes 28 REST API endpoints, service-worker caching, workforce-record management, and payroll-related operational workflows.
 - **Usage:** Designed to support record management for a workforce of more than 50 people. Describe it as a production deployment only when active organisational use is verifiable.
 - **Tech Stack:** `PHP` · `MySQL` · `Progressive Web App (PWA)` · `REST API`
-- **Links:** [Source Code](https://github.com/SaraArif6198/GSC-tracker) • [Demo Video](https://drive.google.com/file/d/1QRl1KugkKdM8WvxT1jkz-2Y2jC1Y-_PZ/view?usp=sharing)
+- **Links:** [Demo Video](https://drive.google.com/file/d/1QRl1KugkKdM8WvxT1jkz-2Y2jC1Y-_PZ/view?usp=sharing)
 
 <br/>
 
