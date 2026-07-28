@@ -49,7 +49,7 @@
 - **Links:** [Source Code](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) • [Live Dashboard](https://loan-risk-predict-dashboard.streamlit.app/)
 
 #### 3. [UrduPy Compiler](https://github.com/SaraArif6198/urdupy-compiler) — 5-Phase Language Toolchain & IDE
-- **Problem & Solution:** mplements a Roman Urdu programming-language toolchain intended to make introductory programming concepts more approachable for Urdu-speaking learners.
+- **Problem & Solution:** Implements a Roman Urdu programming-language toolchain intended to make introductory programming concepts more approachable for Urdu-speaking learners.
 - **Architecure:** Covers lexical analysis, parsing, abstract syntax-tree construction, semantic checks, intermediate representation, and code generation.
 - **Interface:** Includes a Tkinter-based desktop environment for writing and running UrduPy programs.
 - **Tech Stack:** `Python` · `Compiler Theory` · `AST Parsing` · `Tkinter`
