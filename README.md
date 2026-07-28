@@ -114,11 +114,11 @@
 <br/>
 
 <!-- ===== MAKEFILE BUILD OUTPUT ===== -->
-<div align="center">
+<!-- <div align="center">
   <img src="./make_build.svg" width="100%" alt="make sara — build output" />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ===== OPEN FOR / AVAILABILITY ===== -->
 <div align="center">
