@@ -21,7 +21,7 @@
 
 <!-- ===== HUMAN-READABLE INTRODUCTION ===== -->
 <p align="center">
-  I’m <strong>Sara Arif</strong>, a software engineering student and AI-focused developer building practical systems across intelligent agents, explainable machine learning, backend APIs, and data applications. My work focuses on turning models and raw data into useful, understandable software.
+  I’m <strong>Sara Arif</strong>, a Computer Science student and AI-focused developer building practical systems across intelligent agents, explainable machine learning, backend APIs, and data applications. My work focuses on turning models and raw data into useful, understandable software.
 </p>
 
 <br/>
