@@ -36,26 +36,29 @@
 ### 🚀 Featured Project Breakdown
 
 #### 1. [VizBot Analytics](https://github.com/SaraArif6198/VizBot) — Multi-Agent LangGraph EDA Pipeline
-- **Problem & Solution:** Automated exploratory data analysis pipeline (profiling, anomaly detection, visualization generation, narrative synthesis) that cuts structured EDA setup from hours to minutes.
-- **Architecture:** Built on an async FastAPI + Groq Llama 3.1 backend with sandboxed code execution and Streamlit interface.
-- **Tech Stack:** `Python` · `LangGraph` · `FastAPI` · `Streamlit` · `Groq Llama 3.1`
+- **Problem & Solution:** Automates repetitive exploratory-data-analysis tasks, including dataset profiling, anomaly detection, visualisation generation, and narrative synthesis.
+- **Architecture:** Uses LangGraph to coordinate specialised analysis steps through an asynchronous FastAPI backend, with Groq-hosted language models and a Streamlit interface.
+- **Tech Stack:** `Python` · `LangGraph` · `FastAPI` · `Streamlit` · `Groq`
 - **Links:** [Source Code](https://github.com/SaraArif6198/VizBot) • [Demo Video](https://drive.google.com/file/d/1m-7qVkIa6RP0YQM1nTmVDEVUaa3W21Al/view?usp=sharing)
 
 #### 2. [Bank Loan Risk Classifier](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) — Explainable ML & SHAP Dashboard
-- **Problem & Solution:** Solved a critical 90/10 class imbalance using SMOTE and tuned a CatBoost classifier for minority-class recall to optimize loan-approval risk sensitivity.
-- **Impact & Explainability:** Achieved 30%+ reduction in false negatives vs. baseline and integrated SHAP per-prediction waterfall plots to accelerate stakeholder review cycles by 50%.
+- **Problem & Solution:** Addresses a highly imbalanced loan-risk dataset using training-set SMOTE and a tuned CatBoost classifier focused on improving minority-class detection.
+- **Explainability:** Uses SHAP waterfall plots to help users inspect the factors influencing each individual prediction.
+- **Result:** Reduced false negatives compared with the baseline model. Include the exact percentage only when the evaluation calculation is documented in the repository.
 - **Tech Stack:** `Python` · `CatBoost` · `SHAP` · `SMOTE` · `Streamlit`
 - **Links:** [Source Code](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) • [Live Dashboard](https://loan-risk-predict-dashboard.streamlit.app/)
 
 #### 3. [UrduPy Compiler](https://github.com/SaraArif6198/urdupy-compiler) — 5-Phase Language Toolchain & IDE
-- **Problem & Solution:** Designed and implemented a complete 5-phase compiler from scratch (Lexer → Parser → AST → IR → CodeGen) with semantic analysis and type checking.
-- **Impact:** Created the first functional programming toolchain for Roman Urdu, serving 230M+ speakers with no English prerequisite. Includes a custom Tkinter GUI IDE.
+- **Problem & Solution:** mplements a Roman Urdu programming-language toolchain intended to make introductory programming concepts more approachable for Urdu-speaking learners.
+- **Architecure:** Covers lexical analysis, parsing, abstract syntax-tree construction, semantic checks, intermediate representation, and code generation.
+- **Interface:** Includes a Tkinter-based desktop environment for writing and running UrduPy programs.
 - **Tech Stack:** `Python` · `Compiler Theory` · `AST Parsing` · `Tkinter`
 - **Links:** [Source Code](https://github.com/SaraArif6198/urdupy-compiler) • [Demo Video](https://drive.google.com/file/d/1vQ8hUT-hX8P0QMTIHfLlqgVeDbHWfqcc/view?usp=sharing)
 
 #### 4. [DG Cement Work Tracker](https://github.com/SaraArif6198/GSC-tracker) — Production Offline-First PWA
-- **Problem & Solution:** Architected a live production attendance & payroll system for a real construction firm, serving 50+ field workers with 28 REST API endpoints and service-worker caching.
-- **Impact:** Replaced 100% of paper tracking across remote construction sites, eliminating error rates and compressing weekly payroll processing time by ~70%+.
+- **Problem & Solution:** Built an offline-first attendance and payroll application for construction-site workflows where internet connectivity may be unreliable.
+- **Architecture:** Includes 28 REST API endpoints, service-worker caching, workforce-record management, and payroll-related operational workflows.
+- **Usage:** Designed to support record management for a workforce of more than 50 people. Describe it as a production deployment only when active organisational use is verifiable.
 - **Tech Stack:** `PHP` · `MySQL` · `Progressive Web App (PWA)` · `REST API`
 - **Links:** [Source Code](https://github.com/SaraArif6198/GSC-tracker) • [Demo Video](https://drive.google.com/file/d/1QRl1KugkKdM8WvxT1jkz-2Y2jC1Y-_PZ/view?usp=sharing)
 
