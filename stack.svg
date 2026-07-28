@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="100%" style="background:#050816;border-radius:12px;font-family:'Fira Code','Courier New',monospace;">
+
+  <!-- ===== TITLE BAR ===== -->
+  <rect x="0" y="0" width="1200" height="34" fill="#0b112c" rx="8"/>
+  <rect x="0" y="20" width="1200" height="14" fill="#0b112c"/>
+  <circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="5" fill="#27c93f"/>
+  <text x="600" y="22" fill="#64748b" font-size="11" text-anchor="middle">Terminal — % ls -la ~/stack/ --classified</text>
+  <line x1="0" y1="34" x2="1200" y2="34" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ===== PROMPT ===== -->
+  <text x="30" y="58" fill="#915eff" font-size="14" font-weight="bold">$</text>
+  <text x="48" y="58" fill="#e2e8f0" font-size="14"> ls -la ~/stack/ --by-experience</text>
+
+  <!-- ===== HEADER STAT LINE ===== -->
+  <text x="30" y="78" fill="#334155" font-size="12">total 3 classified tiers</text>
+  <text x="220" y="78" fill="#334155" font-size="12">·</text>
+  <text x="238" y="78" fill="#915eff" font-size="12">25 projects built</text>
+  <text x="385" y="78" fill="#334155" font-size="12">·</text>
+  <text x="403" y="78" fill="#915eff" font-size="12">22+ certifications</text>
+  <text x="566" y="78" fill="#334155" font-size="12">·</text>
+  <text x="584" y="78" fill="#915eff" font-size="12">CGPA 3.85 / 4.00</text>
+
+  <line x1="30" y1="88" x2="1170" y2="88" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ===== DIRECTORY ROWS ===== -->
+  <g font-size="13" font-family="'Fira Code','Courier New',monospace">
+
+    <!-- Row 1: core_stack/ -->
+    <text x="30"  y="116" fill="#334155">drwxr-xr-x</text>
+    <text x="180" y="116" fill="#22d3ee" font-weight="bold">1.core_stack/</text>
+    <text x="385" y="116" fill="#64748b">→</text>
+    <text x="405" y="116" fill="#e2e8f0">Python · FastAPI · React · TypeScript · Pandas · Scikit-learn · SQL · Git</text>
+
+    <!-- Row 2: used_in_projects/ -->
+    <text x="30"  y="148" fill="#334155">drwxr-xr-x</text>
+    <text x="180" y="148" fill="#a78bfa" font-weight="bold">2.used_in_projects/</text>
+    <text x="385" y="148" fill="#64748b">→</text>
+    <text x="405" y="148" fill="#e2e8f0">LangGraph · CatBoost · SHAP · Streamlit · Power BI · PostgreSQL · SQLite · Docker · Vercel</text>
+
+    <!-- Row 3: currently_exploring/ -->
+    <text x="30"  y="180" fill="#334155">drwxr-xr-x</text>
+    <text x="180" y="180" fill="#64748b" font-weight="bold">3.currently_exploring/</text>
+    <text x="385" y="180" fill="#64748b">→</text>
+    <text x="405" y="180" fill="#e2e8f0">PyTorch · TensorFlow · HuggingFace · Snowflake · Tableau · React Native · R</text>
+
+  </g>
+
+  <!-- ===== FOOTER ===== -->
+  <line x1="30" y1="202" x2="1170" y2="202" stroke="#1e293b" stroke-width="1"/>
+  <text x="30"  y="224" fill="#334155" font-size="12" font-family="'Fira Code','Courier New',monospace">permissions: rwx  ·  owner: sara  ·  group: developers  ·</text>
+  <text x="563" y="224" fill="#915eff" font-size="12" font-family="'Fira Code','Courier New',monospace"> verified against codebase &amp; public repos</text>
+  <text x="965" y="224" fill="#10b981" font-size="12" font-family="'Fira Code','Courier New',monospace"> ◉ READY</text>
+
+</svg>

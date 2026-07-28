@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" style="background:#050816;border-radius:12px;font-family:'Fira Code','Courier New',monospace;">
+
+  <!-- ===== TITLE BAR ===== -->
+  <rect x="0" y="0" width="1200" height="34" fill="#0b112c" rx="8"/>
+  <rect x="0" y="20" width="1200" height="14" fill="#0b112c"/>
+  <circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="5" fill="#27c93f"/>
+  <text x="600" y="22" fill="#64748b" font-size="11" text-anchor="middle">Makefile — % make sara</text>
+  <line x1="0" y1="34" x2="1200" y2="34" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ===== PROMPT LINE ===== -->
+  <text x="30" y="62" fill="#915eff" font-size="14" font-weight="bold">$</text>
+  <text x="48" y="62" fill="#e2e8f0" font-size="14"> make sara</text>
+
+  <!-- ===== LOADING DEPENDENCIES ===== -->
+  <g font-size="13" font-family="'Fira Code','Courier New',monospace">
+
+    <!-- python -->
+    <text x="30"  y="88" fill="#64748b">[LOADING]</text>
+    <text x="140" y="88" fill="#94a3b8"> core.python </text>
+    <text x="360" y="88" fill="#334155">.............</text>
+    <text x="510" y="88" fill="#10b981"> OK</text>
+
+    <!-- langgraph -->
+    <text x="30"  y="110" fill="#64748b">[LOADING]</text>
+    <text x="140" y="110" fill="#94a3b8"> core.langgraph </text>
+    <text x="420" y="110" fill="#334155">.........</text>
+    <text x="510" y="110" fill="#10b981"> OK</text>
+
+    <!-- catboost + shap -->
+    <text x="30"  y="132" fill="#64748b">[LOADING]</text>
+    <text x="140" y="132" fill="#94a3b8"> core.catboost + shap </text>
+    <text x="490" y="132" fill="#334155">.....</text>
+    <text x="510" y="132" fill="#10b981"> OK</text>
+
+    <!-- react + fastapi -->
+    <text x="30"  y="154" fill="#64748b">[LOADING]</text>
+    <text x="140" y="154" fill="#94a3b8"> core.react + fastapi </text>
+    <text x="490" y="154" fill="#334155">.....</text>
+    <text x="510" y="154" fill="#10b981"> OK</text>
+
+    <!-- power bi -->
+    <text x="30"  y="176" fill="#64748b">[LOADING]</text>
+    <text x="140" y="176" fill="#94a3b8"> core.powerbi + dax </text>
+    <text x="470" y="176" fill="#334155">.......</text>
+    <text x="510" y="176" fill="#10b981"> OK</text>
+
+    <!-- compiler theory -->
+    <text x="30"  y="198" fill="#64748b">[LOADING]</text>
+    <text x="140" y="198" fill="#94a3b8"> core.compiler_theory </text>
+    <text x="490" y="198" fill="#334155">.....</text>
+    <text x="510" y="198" fill="#10b981"> OK</text>
+  </g>
+
+  <!-- Separator line -->
+  <line x1="30" y1="215" x2="1170" y2="215" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ===== RUNNING TESTS ===== -->
+  <g font-size="13" font-family="'Fira Code','Courier New',monospace">
+
+    <!-- icsc -->
+    <text x="30"  y="238" fill="#64748b">[RUNNING]</text>
+    <text x="140" y="238" fill="#94a3b8"> test.icsc_2025 </text>
+    <text x="400" y="238" fill="#334155">...............</text>
+    <text x="590" y="238" fill="#10b981"> PASS</text>
+    <text x="650" y="238" fill="#64748b"> (Top 2% · 3,800+ participants · Silver Honour)</text>
+
+    <!-- dg cement -->
+    <text x="30"  y="260" fill="#64748b">[RUNNING]</text>
+    <text x="140" y="260" fill="#94a3b8"> test.dg_cement_prod </text>
+    <text x="470" y="260" fill="#334155">...........</text>
+    <text x="590" y="260" fill="#10b981"> PASS</text>
+    <text x="650" y="260" fill="#64748b"> (50+ workers · 28 REST APIs · 0 paper records)</text>
+
+    <!-- loan classifier -->
+    <text x="30"  y="282" fill="#64748b">[RUNNING]</text>
+    <text x="140" y="282" fill="#94a3b8"> test.loan_classifier </text>
+    <text x="480" y="282" fill="#334155">...........</text>
+    <text x="590" y="282" fill="#10b981"> PASS</text>
+    <text x="650" y="282" fill="#64748b"> (−30% false negatives · SHAP explainability)</text>
+
+    <!-- urdupy -->
+    <text x="30"  y="304" fill="#64748b">[RUNNING]</text>
+    <text x="140" y="304" fill="#94a3b8"> test.urdupy_compiler </text>
+    <text x="480" y="304" fill="#334155">...........</text>
+    <text x="590" y="304" fill="#10b981"> PASS</text>
+    <text x="650" y="304" fill="#64748b"> (230M+ Urdu speakers · 5-phase toolchain)</text>
+
+    <!-- pm laptop -->
+    <text x="30"  y="326" fill="#64748b">[RUNNING]</text>
+    <text x="140" y="326" fill="#94a3b8"> test.pm_laptop_2025 </text>
+    <text x="470" y="326" fill="#334155">...........</text>
+    <text x="590" y="326" fill="#10b981"> PASS</text>
+    <text x="650" y="326" fill="#64748b"> (Ranked 27th / 6,000+ students · merit award)</text>
+  </g>
+
+  <!-- Separator line -->
+  <line x1="30" y1="340" x2="1170" y2="340" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- ===== BUILD SUCCESS ===== -->
+  <rect x="30" y="348" width="1140" height="1" fill="#10b981" opacity="0.3"/>
+  <text x="30"  y="356" fill="#10b981" font-size="13" font-weight="bold" font-family="'Fira Code','Courier New',monospace">[SUCCESS]</text>
+  <text x="140" y="356" fill="#e2e8f0" font-size="13" font-family="'Fira Code','Courier New',monospace"> Build complete</text>
+  <text x="395" y="356" fill="#64748b" font-size="13" font-family="'Fira Code','Courier New',monospace"> — Sara Arif v2026.07 · github.com/SaraArif6198</text>
+
+</svg>

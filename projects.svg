@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="430" viewBox="0 0 1180 430" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="Flagship Projects">
+  <rect width="1180" height="430" rx="14" fill="#0A101F"/>
+  <defs>
+    <linearGradient id="acc_dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#915EFF">
+        <animate attributeName="stop-color" values="#915EFF;#22D3EE;#10B981;#915EFF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#915EFF;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- TITLE BAR -->
+  <text x="24" y="28" font-size="11" letter-spacing="3" fill="#22D3EE" font-weight="bold">FLAGSHIP.PROJECTS</text>
+  <text x="210" y="28" font-size="11" fill="#475569">./projects.sh --featured</text>
+  <line x1="24" y1="38" x2="1156" y2="38" stroke="url(#acc_dark)" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- CARD 1: VizBot Analytics (Top-Left) -->
+  <a href="https://github.com/SaraArif6198/VizBot" target="_blank">
+    <g transform="translate(24,54)">
+      <rect width="554" height="166" rx="10" fill="#0C1426" stroke="rgba(34,211,238,0.28)"/>
+      <rect width="554" height="30" rx="10" fill="#0B1222"/>
+      <rect y="18" width="554" height="12" fill="#0B1222"/>
+      <line x1="0" y1="30" x2="554" y2="30" stroke="rgba(255,255,255,0.08)"/>
+      <text x="16" y="20" font-size="11" fill="#94A3B8"><tspan fill="#22D3EE">●</tspan> SaraArif6198/VizBot</text>
+      <circle cx="538" cy="15" r="4" fill="#475569"/>
+
+      <rect x="16" y="44" width="38" height="38" rx="8" fill="#915EFF" opacity="0.9"/>
+      <text x="35" y="69" text-anchor="middle" font-size="18" font-weight="bold" fill="#F8FAFC">V</text>
+
+      <text x="66" y="60" font-size="16" font-weight="bold" fill="#F8FAFC">VizBot Analytics</text>
+      <text x="66" y="80" font-size="11" fill="#94A3B8">Multi-agent LangGraph EDA pipeline (profiling &amp; narrative synth)</text>
+      <text x="66" y="96" font-size="11" fill="#64748b">Async FastAPI + Groq Llama 3.1 backend with sandboxed execution</text>
+
+      <!-- Badges -->
+      <rect x="66" y="116" width="62" height="18" rx="9" fill="rgba(145,94,255,0.2)" stroke="rgba(145,94,255,0.5)"/>
+      <text x="97" y="129" text-anchor="middle" font-size="10" fill="#A78BFA">Python</text>
+
+      <rect x="136" y="116" width="80" height="18" rx="9" fill="rgba(145,94,255,0.2)" stroke="rgba(145,94,255,0.5)"/>
+      <text x="176" y="129" text-anchor="middle" font-size="10" fill="#A78BFA">LangGraph</text>
+
+      <rect x="224" y="116" width="62" height="18" rx="9" fill="rgba(145,94,255,0.2)" stroke="rgba(145,94,255,0.5)"/>
+      <text x="255" y="129" text-anchor="middle" font-size="10" fill="#A78BFA">FastAPI</text>
+
+      <text x="66" y="152" font-size="11" fill="#10B981">★ Featured AI Agent • Cuts EDA setup from hours to minutes</text>
+    </g>
+  </a>
+
+  <!-- CARD 2: Bank Loan Risk Classifier (Top-Right) -->
+  <a href="https://github.com/SaraArif6198/-loan-risk-classifier-dashboard" target="_blank">
+    <g transform="translate(602,54)">
+      <rect width="554" height="166" rx="10" fill="#0C1426" stroke="rgba(34,211,238,0.28)"/>
+      <rect width="554" height="30" rx="10" fill="#0B1222"/>
+      <rect y="18" width="554" height="12" fill="#0B1222"/>
+      <line x1="0" y1="30" x2="554" y2="30" stroke="rgba(255,255,255,0.08)"/>
+      <text x="16" y="20" font-size="11" fill="#94A3B8"><tspan fill="#22D3EE">●</tspan> SaraArif6198/-loan-risk-classifier-dashboard</text>
+      <circle cx="538" cy="15" r="4" fill="#475569"/>
+
+      <rect x="16" y="44" width="38" height="38" rx="8" fill="#22D3EE" opacity="0.9"/>
+      <text x="35" y="69" text-anchor="middle" font-size="18" font-weight="bold" fill="#0A101F">L</text>
+
+      <text x="66" y="60" font-size="16" font-weight="bold" fill="#F8FAFC">Bank Loan Risk Classifier</text>
+      <text x="66" y="80" font-size="11" fill="#94A3B8">SMOTE-corrected (90/10) CatBoost model with SHAP waterfall plots</text>
+      <text x="66" y="96" font-size="11" fill="#64748b">Deployed Streamlit explainer dashboard for loan risk decisions</text>
+
+      <!-- Badges -->
+      <rect x="66" y="116" width="70" height="18" rx="9" fill="rgba(34,211,238,0.15)" stroke="rgba(34,211,238,0.4)"/>
+      <text x="101" y="129" text-anchor="middle" font-size="10" fill="#22D3EE">CatBoost</text>
+
+      <rect x="144" y="116" width="50" height="18" rx="9" fill="rgba(34,211,238,0.15)" stroke="rgba(34,211,238,0.4)"/>
+      <text x="169" y="129" text-anchor="middle" font-size="10" fill="#22D3EE">SHAP</text>
+
+      <rect x="202" y="116" width="74" height="18" rx="9" fill="rgba(34,211,238,0.15)" stroke="rgba(34,211,238,0.4)"/>
+      <text x="239" y="129" text-anchor="middle" font-size="10" fill="#22D3EE">Streamlit</text>
+
+      <text x="66" y="152" font-size="11" fill="#10B981">★ 30%+ fewer false negatives • 50% faster review cycles</text>
+    </g>
+  </a>
+
+  <!-- CARD 3: UrduPy Compiler (Bottom-Left) -->
+  <a href="https://github.com/SaraArif6198/urdupy-compiler" target="_blank">
+    <g transform="translate(24,236)">
+      <rect width="554" height="166" rx="10" fill="#0C1426" stroke="rgba(34,211,238,0.28)"/>
+      <rect width="554" height="30" rx="10" fill="#0B1222"/>
+      <rect y="18" width="554" height="12" fill="#0B1222"/>
+      <line x1="0" y1="30" x2="554" y2="30" stroke="rgba(255,255,255,0.08)"/>
+      <text x="16" y="20" font-size="11" fill="#94A3B8"><tspan fill="#22D3EE">●</tspan> SaraArif6198/urdupy-compiler</text>
+      <circle cx="538" cy="15" r="4" fill="#475569"/>
+
+      <rect x="16" y="44" width="38" height="38" rx="8" fill="#10B981" opacity="0.9"/>
+      <text x="35" y="69" text-anchor="middle" font-size="18" font-weight="bold" fill="#0A101F">U</text>
+
+      <text x="66" y="60" font-size="16" font-weight="bold" fill="#F8FAFC">UrduPy — Compiler Toolchain</text>
+      <text x="66" y="80" font-size="11" fill="#94A3B8">5-phase compiler (Lexer→Parser→AST→IR→CodeGen) for Roman Urdu</text>
+      <text x="66" y="96" font-size="11" fill="#64748b">Semantic analysis, compile-type checks, and custom Tkinter IDE</text>
+
+      <!-- Badges -->
+      <rect x="66" y="116" width="62" height="18" rx="9" fill="rgba(16,185,129,0.18)" stroke="rgba(16,185,129,0.4)"/>
+      <text x="97" y="129" text-anchor="middle" font-size="10" fill="#10B981">Python</text>
+
+      <rect x="136" y="116" width="112" height="18" rx="9" fill="rgba(16,185,129,0.18)" stroke="rgba(16,185,129,0.4)"/>
+      <text x="192" y="129" text-anchor="middle" font-size="10" fill="#10B981">Compiler Theory</text>
+
+      <rect x="256" y="116" width="82" height="18" rx="9" fill="rgba(16,185,129,0.18)" stroke="rgba(16,185,129,0.4)"/>
+      <text x="297" y="129" text-anchor="middle" font-size="10" fill="#10B981">Tkinter IDE</text>
+
+      <text x="66" y="152" font-size="11" fill="#10B981">★ First Roman Urdu programming toolchain for 230M+ speakers</text>
+    </g>
+  </a>
+
+  <!-- CARD 4: DG Cement Work Tracker (Bottom-Right) -->
+  <a href="https://github.com/SaraArif6198/GSC-tracker" target="_blank">
+    <g transform="translate(602,236)">
+      <rect width="554" height="166" rx="10" fill="#0C1426" stroke="rgba(34,211,238,0.28)"/>
+      <rect width="554" height="30" rx="10" fill="#0B1222"/>
+      <rect y="18" width="554" height="12" fill="#0B1222"/>
+      <line x1="0" y1="30" x2="554" y2="30" stroke="rgba(255,255,255,0.08)"/>
+      <text x="16" y="20" font-size="11" fill="#94A3B8"><tspan fill="#22D3EE">●</tspan> SaraArif6198/GSC-tracker</text>
+      <circle cx="538" cy="15" r="4" fill="#475569"/>
+
+      <rect x="16" y="44" width="38" height="38" rx="8" fill="#F59E0B" opacity="0.9"/>
+      <text x="35" y="69" text-anchor="middle" font-size="18" font-weight="bold" fill="#0A101F">D</text>
+
+      <text x="66" y="60" font-size="16" font-weight="bold" fill="#F8FAFC">DG Cement Work Tracker</text>
+      <text x="66" y="80" font-size="11" fill="#94A3B8">Production offline-first PWA serving 50+ construction field workers</text>
+      <text x="66" y="96" font-size="11" fill="#64748b">28 REST API endpoints (PHP/MySQL) with service-worker sync</text>
+
+      <!-- Badges -->
+      <rect x="66" y="116" width="80" height="18" rx="9" fill="rgba(245,158,11,0.18)" stroke="rgba(245,158,11,0.4)"/>
+      <text x="106" y="129" text-anchor="middle" font-size="10" fill="#F59E0B">PHP / MySQL</text>
+
+      <rect x="154" y="116" width="46" height="18" rx="9" fill="rgba(245,158,11,0.18)" stroke="rgba(245,158,11,0.4)"/>
+      <text x="177" y="129" text-anchor="middle" font-size="10" fill="#F59E0B">PWA</text>
+
+      <rect x="208" y="116" width="76" height="18" rx="9" fill="rgba(245,158,11,0.18)" stroke="rgba(245,158,11,0.4)"/>
+      <text x="246" y="129" text-anchor="middle" font-size="10" fill="#F59E0B">REST API</text>
+
+      <text x="66" y="152" font-size="11" fill="#10B981">★ Replaced 100% paper records • ~70%+ faster processing</text>
+    </g>
+  </a>
+
+</svg>
