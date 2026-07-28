@@ -39,7 +39,7 @@
 - **Problem & Solution:** Automates repetitive exploratory-data-analysis tasks, including dataset profiling, anomaly detection, visualisation generation, and narrative synthesis.
 - **Architecture:** Uses LangGraph to coordinate specialised analysis steps through an asynchronous FastAPI backend, with Groq-hosted language models and a Streamlit interface.
 - **Tech Stack:** `Python` · `LangGraph` · `FastAPI` · `Streamlit` · `Groq`
-- **Links:** [Source Code](https://github.com/SaraArif6198/VizBot) • [Demo Video](https://drive.google.com/file/d/1m-7qVkIa6RP0YQM1nTmVDEVUaa3W21Al/view?usp=sharing)
+- **Links:** [Post](https://www.linkedin.com/posts/sara-arif-792p_datascience-dataengineering-python-ugcPost-7475231625904295936-CeI-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2XV4Bj5U7yggcsrMqE4jegz0nJCmKhes) • [Demo Video](https://drive.google.com/file/d/1m-7qVkIa6RP0YQM1nTmVDEVUaa3W21Al/view?usp=sharing)
 
 #### 2. [Bank Loan Risk Classifier](https://github.com/SaraArif6198/-loan-risk-classifier-dashboard) — Explainable ML & SHAP Dashboard
 - **Problem & Solution:** Addresses a highly imbalanced loan-risk dataset using training-set SMOTE and a tuned CatBoost classifier focused on improving minority-class detection.
@@ -53,7 +53,7 @@
 - **Architecure:** Covers lexical analysis, parsing, abstract syntax-tree construction, semantic checks, intermediate representation, and code generation.
 - **Interface:** Includes a Tkinter-based desktop environment for writing and running UrduPy programs.
 - **Tech Stack:** `Python` · `Compiler Theory` · `AST Parsing` · `Tkinter`
-- **Links:** [Source Code](https://github.com/SaraArif6198/urdupy-compiler) • [Demo Video](https://drive.google.com/file/d/1vQ8hUT-hX8P0QMTIHfLlqgVeDbHWfqcc/view?usp=sharing)
+- **Links:** [Post](https://www.linkedin.com/posts/sara-arif-792p_compiler-python-computerscience-ugcPost-7476594947937447936-yvs7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw2XV4Bj5U7yggcsrMqE4jegz0nJCmKhes) • [Demo Video](https://drive.google.com/file/d/1vQ8hUT-hX8P0QMTIHfLlqgVeDbHWfqcc/view?usp=sharing)
 
 #### 4. [DG Cement Work Tracker](https://github.com/SaraArif6198/GSC-tracker) — Production Offline-First PWA
 - **Problem & Solution:** Built an offline-first attendance and payroll application for construction-site workflows where internet connectivity may be unreliable.
